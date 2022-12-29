@@ -1,3 +1,4 @@
+
 # Implement an ERC20 zk airdrop in 20 minutes with Polygon ID
 
 Tutorial: https://0xpolygonid.github.io/tutorials/verifier/on-chain-verification/overview/
@@ -42,3 +43,6 @@ This tutorial uses [Hardhat](https://hardhat.org/) as a development environment 
     - Update the `contract_address` field to your deployed contract address
 
 2. Create a frontend with a QR code to the proof request. [Codesandbox example](https://codesandbox.io/s/zisu81?file=/index.js) A user should be able to scan the QR code from the Polygon ID app and trustlessly prove that they are old enough to claim the ERC20 airdrop without revealing their actual birthday. 
+
+---------------------------------------------
+frond end -- index.js -- https://pastebin.com/dbjZrLhP
